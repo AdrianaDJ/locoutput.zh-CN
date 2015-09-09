@@ -1,1 +1,1 @@
-# locoutput.zh-CN
+README
